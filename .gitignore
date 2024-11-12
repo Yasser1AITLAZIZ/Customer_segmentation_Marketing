@@ -164,3 +164,6 @@ cython_debug/
 
 # Venv ignore
 env_dev/
+
+
+/data/
